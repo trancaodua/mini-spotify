@@ -6,6 +6,10 @@
 
 -How to make your own hook by utilizing React Custom Hook and useContext?
 
+| ![](https://i.ibb.co/JvWmHvx/Screenshot-from-2022-05-13-11-24-36.png) |
+| :-------------------------------------------------------------------: |
+|                      _ Min Spot_                      |
+
 # User story
 
 -Users are able to see a tracklist or a list of songs.
